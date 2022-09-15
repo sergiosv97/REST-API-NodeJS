@@ -1,0 +1,4 @@
+-npm init -y
+-npm install -g nodemon
+-npm install node-fetch@2
+-npm run serve
